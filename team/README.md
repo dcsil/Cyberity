@@ -5,4 +5,4 @@ People at COMPANY NAME
 - [Dipanker Bagga, Business](./dipanker_bagga.md)
 - [Mina Gobrail, Business](./mina_gobrail.md)
 - [Jitesh Khiani, Business](./jitesh_khiani.md)
-- [Vinay Komaravolu, Business & Engineering](./vinay_komaravolu.md)
+- [Vinay Komaravolu, Engineering](./vinay_komaravolu.md)
