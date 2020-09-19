@@ -8,7 +8,7 @@
 ## Links
 
 - [GitHub](https://github.com/jkhiani)
-- [LinkedIn](www.linkedin.com/in/jitesh-khiani-003044154)
+- [LinkedIn](https://www.linkedin.com/in/jitesh-khiani-003044154/)
 - [Website](https://jkhiani.github.io/)
 - [Resume](https://docs.google.com/document/d/1BcEmQEy0CH4X7a6s9rVKKFRccygrg2sneen8Za_R05o/edit?usp=sharing)
 
