@@ -1,5 +1,5 @@
 People at COMPANY NAME
 ---
 
-- [Jane Doe, Engineering](./jane_doe.md)
+- [Jitesh Khiani, Business](./jitesh_khiani.md)
 - ...
