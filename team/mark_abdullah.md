@@ -1,6 +1,6 @@
 # Mark Abdullah
 
-![Mark Abdullah Profile](./mark_profile_pic.jpg)
+![Mark Abdullah Profile](./mark_profile_pic.png)
 
 - Software Developer
 - mark.abdullah@mail.utoronto.ca
