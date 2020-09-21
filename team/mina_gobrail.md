@@ -11,6 +11,7 @@
 - [LinkedIn](https://www.linkedin.com/in/mina-gobrail-b5a25a3b/)
 - [Website](http://www.ehealthaccess.com)
 - [Twitter](https://twitter.com/GobrailMina)
+- [Resume](./Gobrail_Mina_resume.pdf)
 
 ## About Mina
 
