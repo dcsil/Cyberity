@@ -25,4 +25,4 @@ Table of Contents
 ---
 
 - [People](./team/)
-- [Team Principles](./Team Principles.md)
+- [Team Principles](./team/team_principles.md)
