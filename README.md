@@ -1,6 +1,6 @@
 # COMPANY NAME
 
-![Team Logo](./cyberity.png)
+![Team Logo](./logo.png)
 
 Cyberity is a company founded in the cybersecurity industry. Cyberity aims to provide a safer work environment for companies and prevent insider threats.
 
