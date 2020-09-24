@@ -1,4 +1,4 @@
-People at COMPANY NAME
+People at Cyberity
 ---
 
 - [Mark Abdullah, Business & Engineering](./mark_abdullah.md)
