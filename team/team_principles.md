@@ -4,7 +4,7 @@
 - Video calls and meetings will primarily be held through Zoom.
 - We expect all team members to check the slack group chat at least once per day.
 - We expect regular input and feedback from all members.
-- All members are open and honest with one another
+- All members are open and honest with one another.
 
 #### **Meetings**:
 
