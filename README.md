@@ -1,4 +1,4 @@
-# COMPANY NAME
+# Cyberity
 
 ![Team Logo](./logo.png)
 
