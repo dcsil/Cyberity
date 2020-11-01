@@ -1,0 +1,56 @@
+Tweaky on ipad
+
+
+Task 1:
+Rob moss account was recently detected as a threat and had his account frozen, 
+can you give me some insight as to what might have lead to Rob being flagged as a threat?
+
+- looking on the the main dashboard
+	- wouldve clicked on live threats
+	- not the hamburger
+- grid /calendar
+- first looked at threats pages
+	- requesting sort by user option
+	
+
+Task 2:
+Locate list of all contained threats.
+	-click on contained threats
+
+
+Task 3:
+Locate the key metric's then identify the total number of insider threats occurred and the number of contained threats.
+	- easily found on dashboard threats
+
+
+Task 4:
+Who was flagged as a threat just before Rob Moss?
+	- easily found at threats
+
+
+
+
+####################### GENERAL NOTES ####################### 
+
+rename user page
+	- is that all the users?
+	- consider scaling, how would the users page holdup
+	
+potentially merge threats and user page
+
+tweak navigation to make it easier
+
+he likes our UX design, just wants to see better navigation
+
+wants tiered alerts on dashboard
+
+wants timeline on a timed based (per day/week/month) as per users choice
+
+dashboard insider threats is not clear
+
+mttd,mttc,mttr, etc might not be useful on the dashboard but still very important
+	-maybe add an infomodal for definitions of acronyms 
+
+
+
+
