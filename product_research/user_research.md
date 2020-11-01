@@ -30,7 +30,7 @@ Who was flagged as a threat just before Rob Moss?
 
 The reason we chose these specific tasks is to allow the user to navigate throughout various important features that our prototype will provide. These include: displaying key insider threat metrics, navigation, user and user event timelines, as well as displaying flagged users.
 
-After performing the tasks, we then asked the users to fill out a survey (https://forms.gle/deeQj9E3tfbP1JBy8) based on their user experience for our prototype. In this survey we asked them questions regarding improvement, aesthetics, troubles, as well as specific questions that we had. After they completed the survey we discussed any questions or comments they had regarding the prototype. This allowed the users to process their thoughts during the survey and then talk to us about their overall experience.
+After performing the tasks, we then asked the users to fill out a [survey](https://forms.gle/deeQj9E3tfbP1JBy8) based on their user experience for our prototype. In this survey we asked them questions regarding improvement, aesthetics, troubles, as well as specific questions that we had. After they completed the survey we discussed any questions or comments they had regarding the prototype. This allowed the users to process their thoughts during the survey and then talk to us about their overall experience.
 
 Throughout this process, we also asked users to share their screen so that we can watch them as they perform their tasks and take notes if needed. 
 
