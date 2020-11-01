@@ -8,7 +8,7 @@ Table of Contents
 - [Appendix](#appendix )
 
 ## Purpose
-The purpose of this research is to ensure that people in the industry will actually use our product. During our user profile study, we bundled up all our users' pains and created a solution that could account for them. This research ensures that our prototype does in fact fit to their standards.The user profile reserach can be found in the appendix.
+The purpose of this research is to ensure that people in the industry will actually use our product. During our user profile study, we bundled up all our users' pains and created a solution that could account for them. This research ensures that our prototype does in fact fit to their standards. The user profile research can be found in the appendix.
 
 ## Overview of people interviewed
 * Cathal
@@ -63,7 +63,7 @@ Potential Improvements
 * Insider accessibility such as colour blindness when choosing our colour schemes. 
 
 ## Prototype
-Click [here](https://www.figma.com/proto/OwXj6Ij7pyiuH3K3YK4NyS/Cyberity-Prototype?node-id=109%3A53159&scaling=min-zoom) to view our complete protoype on Figma.
+Click [here](https://www.figma.com/proto/OwXj6Ij7pyiuH3K3YK4NyS/Cyberity-Prototype?node-id=109%3A53159&scaling=min-zoom) to view our complete prototype on Figma.
 
 ## Appendix
 
