@@ -5,7 +5,7 @@ Table of Contents
 - [User Research](#user-reserach)
 - [Report](#report)
 - [Prototype](#prototype)
-- [Appendix](#appendix)
+- [Appendix](#appendix )
 
 ## Purpose
 
