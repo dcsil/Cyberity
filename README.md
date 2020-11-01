@@ -9,6 +9,7 @@ Cyberity is a company founded in the cybersecurity industry. Cyberity aims to pr
 
 - [People](./team/)
 - [Team Principles](./team/team_principles.md)
+- [Product Research](./product_research)
 
 ## Webapp
 The web application can be found here: https://cyberity.herokuapp.com/
